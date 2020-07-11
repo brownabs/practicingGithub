@@ -123,3 +123,4 @@ const addNewBody = addBody(newMinivan);
 const addNewInterior = addInterior(newMinivan)
 
 console.log("testing amend")
+console.log("testing amend2")
