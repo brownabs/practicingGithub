@@ -121,3 +121,5 @@ const addNewSuspension = addSuspension(newMinivan);
 const addNewExhaust = addExhaust(newMinivan);
 const addNewBody = addBody(newMinivan);
 const addNewInterior = addInterior(newMinivan)
+
+console.log("testing amend")
